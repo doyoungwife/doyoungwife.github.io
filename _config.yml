@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Hyeji Jang"
+  avatar           : "10층강아지.jpg"
+  bio              : "No NCT No Life"
+  location         : "KwangYa"
   email            :
   links:
     - label: "Email"
